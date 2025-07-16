@@ -109,5 +109,4 @@ Entre as principais tabelas que compõem o modelo de dados do projeto, destacam-
 Caso tenha interesse em saber mais ou implementar algo semelhante, entre em contato com o responsável pelo projeto:
 
 **Giulliano Veiga Ferreira Filho**  
-📧 [Inserir e-mail de contato]  
-🏢 [Nome da empresa ou equipe, se aplicável]
+📧 giullianoveiga@gmail.com
